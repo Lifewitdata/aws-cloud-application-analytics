@@ -1,0 +1,19 @@
+# Raw data (download from Kaggle per README, do not commit)
+data/raw/*
+!data/raw/README.md
+
+# Processed intermediate/output data (regenerate via src/ pipeline)
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.env
+
+# Power BI
+*.pbix.bak
+
+# OS
+.DS_Store
