@@ -1,0 +1,4 @@
+session_id,user_id,session_start,session_end,session_duration_sec,event_count,device_type,converted
+sess-a1,512475445,2019-11-01 00:00:00,2019-11-01 00:10:00,600,3,Mobile,False
+sess-c1,514204040,2019-11-01 00:15:00,2019-11-01 00:25:00,600,3,Desktop,True
+sess-d1,518029570,2019-11-01 00:30:00,2019-11-01 00:35:00,300,2,Mobile,False

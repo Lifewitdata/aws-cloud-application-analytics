@@ -1,0 +1,9 @@
+event_id,user_id,session_id,event_type,event_timestamp,device_type,application_version
+EVT-000001,512475445,sess-a1,Login,2019-11-01 00:00:00,Mobile,3.6.0
+EVT-000002,512475445,sess-a1,Product View,2019-11-01 00:05:00,Mobile,3.6.0
+EVT-000003,512475445,sess-a1,Add to Cart,2019-11-01 00:10:00,Mobile,3.6.0
+EVT-000004,514204040,sess-c1,Login,2019-11-01 00:15:00,Desktop,3.5.2
+EVT-000005,514204040,sess-c1,Product View,2019-11-01 00:20:00,Desktop,3.5.2
+EVT-000006,514204040,sess-c1,Checkout,2019-11-01 00:25:00,Desktop,3.5.2
+EVT-000007,518029570,sess-d1,Login,2019-11-01 00:30:00,Mobile,3.6.0
+EVT-000008,518029570,sess-d1,Product View,2019-11-01 00:35:00,Mobile,3.6.0

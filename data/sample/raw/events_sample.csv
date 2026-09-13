@@ -1,0 +1,11 @@
+event_time,event_type,product_id,category_id,category_code,brand,price,user_id,user_session
+2019-11-01 00:00:00 UTC,view,1005105,2232732093077520600,appliances.environment.vacuum,samsung,543.86,512475445,sess-a1
+2019-11-01 00:00:05 UTC,view,1005115,2232732093077520600,appliances.environment.vacuum,lg,732.4,512475446,sess-b1
+2019-11-01 00:01:10 UTC,cart,1005105,2232732093077520600,appliances.environment.vacuum,samsung,543.86,512475445,sess-a1
+2019-11-01 00:02:00 UTC,view,1004856,2232732093077520600,appliances.environment.vacuum,apple,900.05,514204040,sess-c1
+2019-11-01 00:05:30 UTC,cart,1004856,2232732093077520600,appliances.environment.vacuum,apple,900.05,514204040,sess-c1
+2019-11-01 00:07:12 UTC,purchase,1004856,2232732093077520600,appliances.environment.vacuum,apple,900.05,514204040,sess-c1
+2019-11-01 00:10:00 UTC,view,1002544,2232732093077520600,appliances.environment.vacuum,huawei,199.99,518029570,sess-d1
+2019-11-01 00:12:45 UTC,view,1002544,2232732093077520600,appliances.environment.vacuum,huawei,199.99,518029570,sess-d1
+2019-11-01 00:15:20 UTC,cart,1002544,2232732093077520600,appliances.environment.vacuum,huawei,199.99,518029570,sess-d1
+2019-11-01 00:18:00 UTC,purchase,1002544,2232732093077520600,appliances.environment.vacuum,huawei,199.99,518029570,sess-d1

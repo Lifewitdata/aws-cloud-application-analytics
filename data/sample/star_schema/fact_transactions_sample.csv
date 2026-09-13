@@ -1,0 +1,6 @@
+transaction_id,user_id,transaction_date,transaction_amount,payment_method,transaction_status
+order_001,512475445,2019-11-02,154.3,credit_card,Completed
+order_002,514204040,2019-11-06,320.0,credit_card,Completed
+order_003,518029570,2019-11-10,45.0,voucher,Failed
+order_004,520011111,2019-11-14,210.75,debit_card,Completed
+order_005,520022222,2019-11-18,99.99,credit_card,Pending

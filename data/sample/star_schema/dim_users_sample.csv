@@ -1,0 +1,6 @@
+user_id,registration_date,region,device_type,customer_segment
+512475445,2019-10-01,SP,Mobile,High Value
+514204040,2019-10-15,RJ,Desktop,Mid Value
+518029570,2019-11-01,MG,Mobile,Non-Purchaser
+520011111,2019-09-20,SP,Tablet,Low Value
+520022222,2019-11-05,PR,Mobile,Mid Value

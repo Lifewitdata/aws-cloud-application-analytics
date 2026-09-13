@@ -1,0 +1,11 @@
+order_id,customer_id,order_status,order_purchase_timestamp
+order_001,cust_001,delivered,2018-01-01
+order_002,cust_002,delivered,2018-01-04
+order_003,cust_003,shipped,2018-01-07
+order_004,cust_004,canceled,2018-01-10
+order_005,cust_005,delivered,2018-01-13
+order_006,cust_006,invoiced,2018-01-16
+order_007,cust_007,processing,2018-01-19
+order_008,cust_008,delivered,2018-01-22
+order_009,cust_009,delivered,2018-01-25
+order_010,cust_010,canceled,2018-01-28

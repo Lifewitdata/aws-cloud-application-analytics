@@ -1,0 +1,6 @@
+error_id,user_id,error_type,error_timestamp,device_type,application_version
+ERR-000001,512475445,PaymentGatewayTimeout,2019-11-01 00:20:00,Mobile,3.6.0
+ERR-000002,514204040,SessionExpired,2019-11-01 00:40:00,Mobile,3.6.0
+ERR-000003,518029570,APIError5xx,2019-11-01 01:00:00,Desktop,3.5.2
+ERR-000004,520011111,NetworkTimeout,2019-11-01 01:20:00,Mobile,3.6.0
+ERR-000005,520022222,NullPointerException,2019-11-01 01:40:00,Tablet,3.5.0
